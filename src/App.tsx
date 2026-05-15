@@ -1148,7 +1148,7 @@ export default function App() {
             {/* 6. Profile Section - Layout Fixed */}
             <div className="flex items-center gap-4 pl-6 border-l border-white/10 shrink-0 pr-2">
               <div className="text-right hidden xl:block shrink-0">
-                <p className="text-sm font-black text-white tracking-tight leading-none whitespace-nowrap mb-1">Nayab Goher</p>
+                <p className="text-sm font-black text-white tracking-tight leading-none whitespace-nowrap mb-1">Areeba Nadeemr</p>
                 <p className="text-[10px] font-black text-sky-500 uppercase tracking-widest opacity-80 whitespace-nowrap">Pro Seller Account</p>
               </div>
               <div className="w-12 h-12 bg-gradient-to-br from-sky-500 to-sky-600 rounded-2xl flex items-center justify-center text-white shadow-lg shadow-sky-500/20 hover:scale-105 transition-transform cursor-pointer border border-white/10 shrink-0 group">
@@ -1167,7 +1167,7 @@ export default function App() {
           >
             <div className="absolute -left-20 top-1/2 -translate-y-1/2 w-64 h-64 bg-sky-500/10 blur-[100px] rounded-full animate-pulse" />
             <h1 className="text-5xl font-black text-white tracking-tight relative z-10 flex items-center gap-4">
-              <span className="text-gradient">Welcome back, Nayab</span> 
+              <span className="text-gradient">Welcome back, Areeba</span> 
               <motion.span
                 animate={{ rotate: [0, 20, 0] }}
                 transition={{ duration: 2, repeat: Infinity }}
