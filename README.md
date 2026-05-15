@@ -1,17 +1,16 @@
-# 🛍️ OmiSeller - AI-Powered E-commerce Assistant
-
-OmiSeller is an intelligent e-commerce management platform that helps sellers optimize their online business operations using AI technology.
-
 <div align="center">
 
 # 🛍️ OmiSeller AI
+### AI-Powered E-commerce Assistant
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://omiseller-ai.vercel.app)
 
+</div>
 
-install Coding Agent Plugin by: npx plugins add vercel/vercel-plugin
+---
 
-Turn your coding agent into a Vercel expert. Simply copy and run this in your terminal to install the plugin. Available for Claude, Cursor and Codex.
+OmiSeller is an intelligent e-commerce management platform that helps sellers optimize their online business operations using AI technology.
+
 ## ✨ Features
 
 - 📊 **Dashboard Analytics** - Real-time sales and performance tracking
@@ -36,8 +35,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/omiseller.git
-cd omiseller
+git clone https://github.com/areebakhan1w/OmisellerAi.git
+cd OmisellerAi
 ```
 
 2. Install dependencies:
@@ -75,7 +74,7 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-omiseller/
+OmisellerAi/
 ├── src/
 │   ├── components/     # React components
 │   ├── services/       # API and business logic
@@ -121,11 +120,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: areebakhan1w
+**Areeba Nadeem**
+- GitHub: [@areebakhan1w](https://github.com/areebakhan1w)
+
 ## 🙏 Acknowledgments
 
 - Built with Google Gemini AI
