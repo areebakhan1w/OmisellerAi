@@ -2,6 +2,14 @@
 
 OmiSeller is an intelligent e-commerce management platform that helps sellers optimize their online business operations using AI technology.
 
+<div align="center">
+
+# 🛍️ OmiSeller AI
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://omiseller-ai.vercel.app)
+
+</div>
+
 install Coding Agent Plugin by: npx plugins add vercel/vercel-plugin
 
 Turn your coding agent into a Vercel expert. Simply copy and run this in your terminal to install the plugin. Available for Claude, Cursor and Codex.
